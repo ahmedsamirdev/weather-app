@@ -4,7 +4,7 @@ Simple app for weather info. with search feature for your city. Offers a brief o
 
 
 
-### Description 
+### Tech stack 
 
 - HTML
 
