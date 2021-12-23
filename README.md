@@ -4,7 +4,6 @@ Simple app for weather info. with search feature for your city. Offers a brief o
 
 
 
-
 ### Description 
 
 - HTML
@@ -20,9 +19,14 @@ Simple app for weather info. with search feature for your city. Offers a brief o
 ### **Features**
 
 - Search for you location.
+
+- Get weather information with Weather Stack API
+
+- Get location information by Map Box API
+
 - Navigate between many pages with handlebars.js
 
 
 
-### [Live Preview](https://get-weather-nodejs.herokuapp.com/)
 
+### [Live Preview](https://get-weather-nodejs.herokuapp.com/)
